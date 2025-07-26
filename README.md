@@ -57,7 +57,7 @@
   <a href="https://instagram.com/nurrahmahjdj" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/>
   </a>
-  <a href="mailto:nurrahmahjdj@gmail.com">
+  <a href="mailto:nurrahmahjuniardj@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
 </p>
