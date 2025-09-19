@@ -51,7 +51,7 @@
 ### 🚀 Featured Projects
 - [SIMPUS](https://github.com/nurrahmahjdj/simpus) → Hospital Management System (Laravel + MySQL)  
 - [Webstore](https://github.com/nurrahmahjdj/HRIS) → Landing Page for Bakery Store (Bootstrap)  
-- [ToDo List CRUD](https://github.com/nurrahmahjdj/laravel_nurrahmahjdj) → Task Manager App (Laravel + Ajax)  
+- [Hospital List CRUD](https://github.com/nurrahmahjdj/laravel_nurrahmahjdj) → Task Manager App (Laravel + Ajax)  
 
 ---
 
